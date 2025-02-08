@@ -18,6 +18,6 @@
 ## 📲 Social Media Accounts
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ramzy-kemmoun-1a3725237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wassim Hamitouche" height="30" width="40" /></a>
-<a href="https://www.buymeacoffee.com/kemmounramZ"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mattnix4&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href=https://www.linkedin.com/in/wassim-hm-561398336/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wassim Hamitouche" height="30" width="40" /></a>
+
 </p>
