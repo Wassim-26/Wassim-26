@@ -1,6 +1,6 @@
 ﻿# Hello, I'm Wassim Hamitouche <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-#### I'm a Computer Science student at USTHB, Artificial Intelligence passionate and Web Developer.
+#### I'm a Medical Student at University of Algiers .
 
 ## 🔧 Technologies & Tools
 
