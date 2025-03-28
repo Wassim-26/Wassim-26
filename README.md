@@ -1,3 +1,4 @@
+<div align="center">
 # Hello, I'm Wassim Abderrahmane Hamitouche <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ####  a Medical Student at University of Algiers .With a deep passion for knowledge especially in the web development .
@@ -24,4 +25,4 @@
 <p align="left">
 <a href=https://www.linkedin.com/in/wassim-hm-561398336/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wassim Hamitouche" height="30" width="40" /></a><a href="https://www.instagram.com/wassim_hm.09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="l0llilyy" height="30" width="40" /></a>
 
-</p>
+</p></div>
