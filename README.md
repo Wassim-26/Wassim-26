@@ -15,11 +15,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-26&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
 </a>
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 
 <img    align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 
-### 📲 Social Media Accounts
+## 📲 Social Media Accounts
 
 <p align="left">
 <a href=https://www.linkedin.com/in/wassim-hm-561398336/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wassim Hamitouche" height="30" width="40" /></a>
