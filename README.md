@@ -1,4 +1,4 @@
-<div align="center" >﻿# Hello, I'm Wassim Abderrahmane Hamitouche <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></div>
+﻿# Hello, I'm Wassim Abderrahmane Hamitouche <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 ####  a Medical Student at University of Algiers .With a deep passion for knowledge especially in the web development .
 
 ## 🔧 Technologies & Tools
