@@ -9,13 +9,14 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Wassim-26/Wassim-26.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wassim-26&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Ramzy's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Wassim-26&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Wassim's GitHub Stats" />
 </a>
 <a href="https://github.com/Wassim-26/Wassim-26.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-26&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
 </a>
 ### ✍️ Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<img align="center"src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 ## 📲 Social Media Accounts
 
 <p align="left">
