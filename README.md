@@ -18,6 +18,7 @@
 ### ✍️ Random Dev Quote
 
 <img    align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
 ### 📲 Social Media Accounts
 
 <p align="left">
