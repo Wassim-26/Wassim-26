@@ -1,6 +1,6 @@
    # Hello, I'm Wassim Abderrahmane Hamitouche <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
    
-####  A Medical Student at University of Algiers .With a deep passion for knowledge especially in the web development .
+####  a Medical Student at University of Algiers .With a deep passion for knowledge especially in the web development .
 <img src="https://i.pinimg.com/originals/61/8f/08/618f083c61a7460ce0a6064319af41bd.gif" width="300" height="70%"/>
 ## 🔧 Technologies & Tools
 
